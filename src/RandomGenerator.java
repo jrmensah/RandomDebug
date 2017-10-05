@@ -6,7 +6,7 @@ public class RandomGenerator {
     {
         Random r = new Random();
 
-        output("Generate 10 random integers between 0 and 6");
+        output("Generate 10 random integers between 1 and 6");
 
 
         for (int i=1; i <=10; i++)
