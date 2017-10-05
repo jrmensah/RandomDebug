@@ -11,7 +11,7 @@ public class RandomGenerator {
 
         for (int i=1; i <=10; i++)
         {
-            int randomInt = + r.nextInt(6);
+            int randomInt = 1+ r.nextInt(6);
             output("Generated number:" +randomInt);
         }
             output("Done.");
